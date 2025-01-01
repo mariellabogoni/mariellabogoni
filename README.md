@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 My name is Mariella Bogoni. I have a Master's degree in Statistics from the University of São Paulo and Federal University of São Carlos, and currently, 
 I am a PhD candidate in Statistics at the University of São Paulo, Brazil. I was a visiting scholar for six months at the University of North Carolina in Chapell Hill,
 sponsored by CAPES. 
@@ -17,4 +16,4 @@ As a researcher, I have a strong interest in applying statistical methods to hea
 
 If you have any question, suggestion or invite, please, reach out to me via e-mail or Linkedin.
 
--->
+
